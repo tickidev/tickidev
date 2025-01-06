@@ -1,7 +1,5 @@
 # Game Development Journey in C++
 
-Welcome to my game development journey! I'm learning game development using **C++**, and this repository will contain my projects, code snippets, and experiments.
-
 ## About Me
 
 ```cpp
