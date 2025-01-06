@@ -1,5 +1,3 @@
-# Game Development Journey in C++
-
 ## About Me
 
 ```cpp
