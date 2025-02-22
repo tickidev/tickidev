@@ -11,7 +11,7 @@ public:
     std::string location = "Turkey";
     std::string language = "C++, English";
     std::string goal = "Learning game development with C++";
-    std::string currentFocus = "Building basic games and experimenting with game engines like Unreal Engine";
+    std::string currentFocus = "Building basic games and experimenting with game engines like Godot, Unreal Engine";
 
     // Displaying the information
     void displayInfo() {
